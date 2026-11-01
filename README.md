@@ -51,7 +51,7 @@ controllers with the **left** firmware.
    | **D6** `100` | Esc | q | w | e | r | t |
    | **D7** `011` | Tab | a | s | d | f | g |
    | **D8** `104` | Shift | z | x | c | v | b |
-   | **D9** `106` | Win | Alt | Ctrl | (Lower) | Enter | Mute |
+   | **D9** `106` | Win | Alt | Ctrl | (Symbols layer) | Enter | Mute |
 
    Two sweeps cover all 11 matrix pins:
    - Hold one leg on **D7** and step through the columns. Notepad should show
